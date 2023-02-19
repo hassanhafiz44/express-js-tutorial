@@ -1,0 +1,28 @@
+{
+  "name": "express-js-tutorial",
+  "version": "1.0.0",
+  "description": "This project is for my youtube channel. This will teach the basics of expressjs.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server",
+    "dev": "nodemon server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hassanhafiz44/express-js-tutorial.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hassanhafiz44/express-js-tutorial/issues"
+  },
+  "homepage": "https://github.com/hassanhafiz44/express-js-tutorial#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
